@@ -124,14 +124,16 @@ void loop()
  
  ## OUTPUT:
  ## Before Stimulation:
- 
- 
- ![ex 03 rob b](https://user-images.githubusercontent.com/123259278/236829271-0e5463f9-3f2f-4240-b835-482004b3c331.png)
+ ![Dazzling Duup](https://user-images.githubusercontent.com/123259278/236833047-1b9003ae-80b6-4e48-b06b-72c368c39061.png)
 
 
 ## After Stimulation:
+![Screenshot (114)](https://user-images.githubusercontent.com/123259278/236833079-ca84a5bf-2eb6-43cd-ba98-96fecbca91f6.png)
 
-![Screenshot (114)](https://user-images.githubusercontent.com/123259278/236829524-ecad3121-cc4c-49d7-befd-997fe5d31cbe.png)
+
+## Serial Monitor:
+![Serial monitor](https://user-images.githubusercontent.com/123259278/236832756-d668210c-fe85-4a3f-9498-59ed4eda30a3.png)
+
 
  
 
